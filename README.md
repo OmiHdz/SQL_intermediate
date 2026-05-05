@@ -62,9 +62,11 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ---
 
-### 3. {insert analysis approach title here}
+### 3. Customer Retention
 
-- {insert analysis approach here}
+- Identified customers at risk of churning
+- Analyzed last purchase patterns
+- Calculated customer-specific metrics
 
 🖥️ **Query:** [3_retention_analysis.sql](3_retention_analysis.sql)
 
